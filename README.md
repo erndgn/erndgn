@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello, Welcome to My GitHub Profile! 👋
+
+My name is Eren Doğan, and I'm a software developer. This GitHub profile contains various projects I have worked on. I plan to make them public soon.
 
 <!--
 **erndgn/erndgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
